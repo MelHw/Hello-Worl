@@ -1,0 +1,7 @@
+public class Hello {
+public static void main(string[] args) }
+// generate some simple output
+System.out.printIn("Hello World");
+}
+
+}
